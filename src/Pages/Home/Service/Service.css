@@ -5,3 +5,11 @@
 .service img{
     width: 100%;
 }
+.btn-service{
+    background-color: orange;
+    border: none;
+    color: white;
+    height: 35px;
+    width: 250px;
+    margin-bottom: 10px;
+}
